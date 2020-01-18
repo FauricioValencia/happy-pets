@@ -1,0 +1,7 @@
+export const FETCH_PET_LIST = 'FETCH_PET_LIST'
+export const PUT_PET_LIST = 'PUT_PET_LIST'
+
+export const FETCH_SELECTED_PET = 'FETCH_SELECTED_PET'
+export const PUT_SELECTED_PET = 'PET_SELECTED_PET'
+
+export const ADD_NEW_PET = 'ADD_NEW_PET'
